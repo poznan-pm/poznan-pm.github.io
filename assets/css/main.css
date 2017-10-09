@@ -131,7 +131,6 @@
 		font-size: 14pt;
 		font-weight: 300;
 		line-height: 2;
-		letter-spacing: 0.2em;
 		text-transform: uppercase;
 	}
 
@@ -197,7 +196,7 @@
 
 	h1 {
 		font-size: 1.85em;
-		letter-spacing: 0.22em;
+		letter-spacing: 0.1em;
 		margin: 0 0 0.525em 0;
 	}
 
@@ -445,6 +444,14 @@
 		color: #616f77 !important;
 		opacity: 1.0;
 	}
+
+/* Text-link */
+
+        .text-link {
+                letter-spacing: 0;
+                text-transform: none;
+        }
+
 
 /* Icon */
 
